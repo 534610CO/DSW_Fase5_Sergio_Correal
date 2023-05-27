@@ -23,8 +23,18 @@ function App() {
       <div className="card">
        
         <p>
-          <a href="https://neon-truffle-b0ef9c.netlify.app/">Enlace Proyecto Grupal</a>
+          <a href="https://preeminent-truffle-c7944a.netlify.app/">Enlace Proyecto Grupal</a>
         </p>
+        
+
+        <p>
+          <h3>UNAD</h3>
+          <h3>Univesidad Nacional Abierta y Distancia</h3>
+          <h3>Mayo 2023</h3>
+        </p>
+
+
+
       </div>
       <p className="read-the-docs">
         <h1></h1>
