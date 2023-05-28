@@ -15,9 +15,6 @@ function App() {
       </div>
       <h1>Fase 5 - Operar</h1>
       <h2>Integrantes</h2>
-      <h3>Andrés Leonardo Espinosa Canon</h3>
-      <h3>Guillermo Alberto Muñoz Pulido</h3>
-      <h3>Rocio Torres Huertas</h3>
       <h3>Sergio Hernando Correal Balcázar</h3>
 
       <div className="card">
